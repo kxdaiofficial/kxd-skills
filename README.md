@@ -8,6 +8,7 @@ Skill ฟรีสำหรับ UX/UI designer ที่อยากใช้ 
 | [design-to-code](design-to-code/) | แปลงดีไซน์ใน Figma เป็น prototype โค้ดที่กดตามโฟลว์ได้ | Claude Code + Figma MCP |
 | [wireframe-plan](wireframe-plan/) | อ่าน requirement ทั้งไฟล์ แตกเป็น flow / step / จอ แล้วออกแผนภาพ flow กับคำถามถึง PO ก่อนลงมือวาด wireframe | Claude Code |
 | [prototype-brief-lite](prototype-brief-lite/) | พิมพ์ประโยคเดียว ได้ brief หน้าจอเต็ม: โครงจอ state ทุกแบบ ข้อมูลตัวอย่าง flow และคำถามถึง PO | claude.ai หรือ ChatGPT |
+| [design-audit](design-audit/) | เปิดไฟล์ Figma จริง เทียบกับ requirement แล้วออกรายงานว่าครบไหม ขาด state ไหน ใช้ component จาก Design System ไหม | Claude Code + Figma MCP |
 
 ลองแล้วติดตรงไหน ทักมาที่เพจได้เลยครับ
 [facebook.com/kxdai.official](https://facebook.com/kxdai.official) · IG [@kxd.ai](https://instagram.com/kxd.ai)
