@@ -1,0 +1,1 @@
+# whole image, back -> front, one section name per line (tools/render.py OUT --all renders every listed section that exists)
